@@ -1,2 +1,1 @@
-# clase-vsc
-L aprimera clase usando VSC
+# PROC9_P5Juego
